@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruits</string>
+    <string name="coco">Coconut</string>
+    <string name="manzana">Apple</string>
+    <string name="pera">Pear</string>
+    <string name="platano">Banana</string>
+    <string name="sandia">Watermelon</string>
+    <string name="uva">Grape</string>
+</resources>
