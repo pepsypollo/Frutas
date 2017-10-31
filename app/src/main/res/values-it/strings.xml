@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Frutta</string>
+    <string name="pulsar">È stato premuto</string>
+    <string name="coco">Noce di coco</string>
+    <string name="manzana">Mela</string>
+    <string name="pera">Pera</string>
+    <string name="platano">Banana</string>
+    <string name="sandia">Anguria</string>
+    <string name="uva">Uva</string>
+</resources>

@@ -7,4 +7,5 @@
     <string name="platano">Banana</string>
     <string name="sandia">Watermelon</string>
     <string name="uva">Grape</string>
+    <string name="pulsar">You have pressed</string>
 </resources>
